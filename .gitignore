@@ -1,6 +1,13 @@
 *
+
 !*/
 !.gitignore
+new/
+
 !*.cpp
+*-*.cpp
+
 !*.py
+*-*.py
+
 !.md
