@@ -10,4 +10,7 @@ new/
 !*.py
 *-*.py
 
+!*.java
+*-*.java
+
 !.md
